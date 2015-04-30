@@ -1,0 +1,10 @@
+{
+    "name": "ThemBoyz",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ThemBoyz.xml",
+    "author": "PedroOO7",
+    "minimum_firmware_version": 42
+}
